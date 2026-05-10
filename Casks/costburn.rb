@@ -1,8 +1,8 @@
 cask "costburn" do
-  version "0.0.4"
-  sha256 "b1993c8d42579bbc469300e2f0a2e3687631b7894413e312c5da6a4f1f003de6"
+  version "0.0.5"
+  sha256 "5078ac27ea79f47318d37782d91733f7716243ad3047e54a6f94c16df77b699a"
 
-  url "https://github.com/sanjeev-pandey23/costburn/releases/download/mac-v0.0.4/CostBurn-0.0.4.zip"
+  url "https://github.com/sanjeev-pandey23/costburn/releases/download/mac-v0.0.5/CostBurn-0.0.5.zip"
   name "CostBurn"
   desc "Neon DB cost monitor for the macOS menu bar"
   homepage "https://github.com/sanjeev-pandey23/costburn"
